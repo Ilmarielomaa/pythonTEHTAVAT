@@ -1,1 +1,2 @@
-print("Hei, Ilmari!")
+nimi = input("")
+print("terve, " + nimi)
