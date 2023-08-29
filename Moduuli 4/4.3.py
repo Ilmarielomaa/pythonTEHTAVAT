@@ -1,12 +1,12 @@
 num = str(0)
 pienin = int(0)
 suurin = int(0)
-syote = "0"
+syöte = "0"
 
-while syote != "":
-    syote = (input("syötä luku: "))
-    if syote != "":
-        num = int(syote)
+while syöte != "":
+    syöte = (input("syötä luku: "))
+    if syöte != "":
+        num = int(syöte)
         if num > suurin:
             suurin = num
         elif num < pienin:
