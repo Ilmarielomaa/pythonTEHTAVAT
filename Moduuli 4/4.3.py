@@ -13,3 +13,4 @@ while syöte != "":
             pienin = num
 
 print("suurin numero: " + str(suurin) + " ja" + " pienin numero: " + str(pienin))
+
