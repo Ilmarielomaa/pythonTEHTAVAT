@@ -6,3 +6,4 @@ def arpakuutio():
         noppa = random.randint(1,6)
         print(noppa)
 arpakuutio()
+
