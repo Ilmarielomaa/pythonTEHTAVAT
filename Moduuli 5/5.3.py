@@ -6,3 +6,4 @@ for i in range(2, luku):
         break
 else:
     print(f" {luku} on alkuluku. ")
+
