@@ -7,3 +7,4 @@ for i in range(2, luku):
 else:
     print(f" {luku} on alkuluku. ")
 
+
