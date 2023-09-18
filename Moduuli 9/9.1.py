@@ -12,10 +12,7 @@ class auto:
         print(f"tämänhetkinen_nopeus: {self.tämänhetkinen_nopeus} km/h")
         print(f"kuljettu_matka: {self.kuljettu_matka} km")
 
-def main():
-    uusi_auto = auto("ABC-123", 142)
-    uusi_auto.tulosta_ominaisuudet()
+uusi_auto = auto("ABC-123", 142)
+uusi_auto.tulosta_ominaisuudet()
 
-if __name__ == "__main__":
-    main()
 
